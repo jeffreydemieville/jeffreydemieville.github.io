@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jeffrey Demieville, MS, EIT"
-  avatar           : "profile_picture.png"
+  avatar           : "profile_picture.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Arlington, Texas, USA"
   employer         : "The University of Arizona"
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
