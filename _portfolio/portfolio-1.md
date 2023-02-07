@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Texas A&M AgriLife Ground Vehicle"
+excerpt: "Electrical and software integration of various sensors to a high-clearance tractor for use in maize phenotyping. Photo courtesy of Blair Fannin, Texas A&M AgriLife Research.<br/><img src='/images/13738171_1745417789062217_3599856757699822105_o.jpg'>"
 collection: portfolio
 ---
 
