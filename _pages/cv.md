@@ -61,7 +61,7 @@ Service and leadership
 -->
 CV coming soon
 <!--
-<iframe src="https://drive.google.com/file/<insert google drive share link>/preview" width="640" height="480" allow="autoplay"></iframe><br>
+iframe src="https://drive.google.com/file/<insert google drive share link>/preview" width="640" height="480" allow="autoplay"></iframe><br>
 
-<a href="https://drive.google.com/u/0/uc?id=<insert google drive share link>&export=download" target="_self">Download as PDF.</a>
+a href="https://drive.google.com/u/0/uc?id=<insert google drive share link>&export=download" target="_self">Download as PDF.</a>
 -->
