@@ -1,6 +1,6 @@
 ---
 title: "University of Arizona Field Scanalyzer - 2018"
-excerpt: "Started as lead engineer responsible for maintenance, operation, and development of the Field Scanalyzer platform located at the University of Arizona Maricopa Agricultural Center. <br>University of Arizona, Maricopa, Arizona, USA<br/><img src='/images/Maricopa_Gantry_2018.jpg'>"
+excerpt: "Started as lead engineer responsible for maintenance, operation, and development of the Field Scanalyzer platform, the world's largest field phenotyping robot, located at the University of Arizona Maricopa Agricultural Center. <br>University of Arizona, Maricopa, Arizona, USA<br/><img src='/images/Maricopa_Gantry_2018.jpg'>"
 collection: portfolio
 ---
 
