@@ -1,5 +1,5 @@
 ---
-title: "Texas A&M AgriLife Ground Vehicle - July 2016"
+title: "Texas A&M AgriLife Ground Vehicle - 2016"
 excerpt: "Electrical and software integration of various sensors to a high-clearance tractor for use in maize phenotyping. Photo courtesy of Blair Fannin, Texas A&M AgriLife Research. <br>Texas A&M University, College Station, Texas, USA<br/><img src='/images/13738171_1745417789062217_3599856757699822105_o.jpg'>"
 collection: portfolio
 ---
