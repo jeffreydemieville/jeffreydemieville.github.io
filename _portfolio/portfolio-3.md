@@ -2,8 +2,8 @@
 title: "Texas A&M Capstone Design Project - 2018"
 excerpt: "Using Controlled Atmosphere to Reduce Post-Harvest Losses - Mitigating Impact of the Larger Grain Borer in East Africa.
 <br>Jeffrey Demieville, Ezekiel McReynolds, Kevin Jerpseth, Brandon Flores
-<br>The design was able to successfully develop an atmosphere which would induce dormancy in the larger grain borer. This would result in greater food security, and at this cost for the system, there is the potential for an entrepreneur and farmers to profit. Future efforts should be undertaken to maximize grain quality in terms of taste and minimize potential problems associated with long-term anaerobic storage.
-<br>Senior Capstone Design Second Place Award - Biological and Agricultral Engineering
+<br>Senior Capstone Design Second Place Award - Biological and Agricultural Engineering
+<br>The design was able to successfully develop an atmosphere which would induce dormancy in the larger grain borer. 
 <br>Texas A&M University, College Station, Texas, USA<br/><img src='/images/TAMU_Capstone_2018.png'>"
 collection: portfolio
 ---
