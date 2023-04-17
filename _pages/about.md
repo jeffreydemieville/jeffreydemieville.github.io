@@ -19,5 +19,5 @@ I serve as a civil engineer, designing structures and monitoring subsidence of f
 I act as an electrical engineer, designing temperature-controlling circuits and repairing cabling. <br>
 I perform optical engineering, designing solutions for remote sensing in harsh environments. <br></i>
 Most importantly, I apply biosystems engineering skills to combine this diverse skillset into creating synergistic and sustainable solutions to meet society's growing agricultural needs.    
-<p align="center"><img title="" alt="" src="images/Maricopa_Gantry_2018.jpg"></p>
+<p align="center"><img title="" alt="" src="images/2020LaserGIF.gif"></p>
 
