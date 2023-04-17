@@ -1,6 +1,6 @@
 ---
 title: "UAS Integration - 2020"
-excerpt: "Calibrated and integrated thermal camera onto unmanned aerial system. <br>University of Arizona, Maricopa, Arizona, USA<br/><img src='/images/'>"
+excerpt: "Calibrated and integrated thermal camera onto unmanned aerial system. Photo courtesy of Sebastian Calleja, University of Arizona<br>University of Arizona, Maricopa, Arizona, USA<br/><img src='/images/uasthermal.PNG'>"
 collection: portfolio
 ---
 
