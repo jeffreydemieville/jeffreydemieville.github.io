@@ -1,6 +1,6 @@
 ---
 title: "FE Other Disciplines - 2018"
-excerpt: "Passed NCEES Fundamentals of Engineering (FE) Exam - Other Disciplines. <br>Texas, USA<br/><img src='/images/500x300.png'>"
+excerpt: "Passed NCEES Fundamentals of Engineering (FE) Exam - Other Disciplines. <br>Texas, USA<br/>"
 collection: portfolio
 ---
 
