@@ -1,6 +1,6 @@
 ---
 title: "EIT Registration - 2022"
-excerpt: "Registered as an EIT with the Texas Board of Professional Engineers and Land Surveyors. <br>Texas, USA<br/><img src='/images/500x300.png'>"
+excerpt: "Registered as an EIT with the Texas Board of Professional Engineers and Land Surveyors. <br>Texas, USA<br/>"
 collection: portfolio
 ---
 
