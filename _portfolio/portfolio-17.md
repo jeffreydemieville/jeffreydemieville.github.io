@@ -1,6 +1,6 @@
 ---
 title: "FAA-Certified Remote Pilot - 2022"
-excerpt: "Passed Unmanned Aircraft General – Small (UAG) exam and received FAA Remote Pilot Certificate under Part 107 rules. <br>University of Arizona, Maricopa, Arizona, USA<br/><img src='/images/500x300.png'>"
+excerpt: "Passed Unmanned Aircraft General – Small (UAG) exam and received FAA Remote Pilot Certificate under Part 107 rules. <br>University of Arizona, Maricopa, Arizona, USA<br/><img src='/images/drone_clip.gif'>"
 collection: portfolio
 ---
 
